@@ -15,6 +15,8 @@ There were total 15,711 5-star reviews, out of which 15,663 were non-vine and 48
 38.2% of the five star reviews were vine
 38.9% of the five star reviews were non-vine
 
+![Image](https://github.com/yashodhan1202/Amazon_Vine_Analysis/blob/main/Vine_reviews.png)
+
 # Summary:
 
 There does not appear to be any sort of positivity bias because the percentages mentioned above are very similar at 38%. To conclude the analysis the vine program does not show any bias.
