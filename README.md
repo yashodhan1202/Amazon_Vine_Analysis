@@ -6,7 +6,7 @@ In this project we had to choose from a list of datasets which had the same colu
 # Results:
 
 # How many Vine reviews and non-Vine reviews were there?
-There were total 40565 reviews in the filtered dataset out of which 40471 were non-vine reviews and 94 were vine reviews
+There were total 40,565 reviews in the filtered dataset out of which 40,471 were non-vine reviews and 94 were vine reviews
 
 # How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 There were total 15,711 5-star reviews, out of which 15,663 were non-vine and 48 were vine
